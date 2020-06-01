@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "MySpaceBooker.Core/1.0.0": {
+        "runtime": {
+          "MySpaceBooker.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MySpaceBooker.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

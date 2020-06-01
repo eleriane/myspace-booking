@@ -1,0 +1,9 @@
+C:\Users\Nane-Admin\source\repos\Developers-BR\Example1\MySpaceBooking.Core\MySpaceBooker.Core\bin\Debug\netcoreapp2.2\MySpaceBooker.Core.deps.json
+C:\Users\Nane-Admin\source\repos\Developers-BR\Example1\MySpaceBooking.Core\MySpaceBooker.Core\bin\Debug\netcoreapp2.2\MySpaceBooker.Core.dll
+C:\Users\Nane-Admin\source\repos\Developers-BR\Example1\MySpaceBooking.Core\MySpaceBooker.Core\bin\Debug\netcoreapp2.2\MySpaceBooker.Core.pdb
+C:\Users\Nane-Admin\source\repos\Developers-BR\Example1\MySpaceBooking.Core\MySpaceBooker.Core\obj\Debug\netcoreapp2.2\MySpaceBooker.Core.csproj.CoreCompileInputs.cache
+C:\Users\Nane-Admin\source\repos\Developers-BR\Example1\MySpaceBooking.Core\MySpaceBooker.Core\obj\Debug\netcoreapp2.2\MySpaceBooker.Core.AssemblyInfoInputs.cache
+C:\Users\Nane-Admin\source\repos\Developers-BR\Example1\MySpaceBooking.Core\MySpaceBooker.Core\obj\Debug\netcoreapp2.2\MySpaceBooker.Core.AssemblyInfo.cs
+C:\Users\Nane-Admin\source\repos\Developers-BR\Example1\MySpaceBooking.Core\MySpaceBooker.Core\obj\Debug\netcoreapp2.2\MySpaceBooker.Core.dll
+C:\Users\Nane-Admin\source\repos\Developers-BR\Example1\MySpaceBooking.Core\MySpaceBooker.Core\obj\Debug\netcoreapp2.2\MySpaceBooker.Core.pdb
+C:\Users\Nane-Admin\source\repos\Developers-BR\Example1\MySpaceBooking.Core\MySpaceBooker.Core\obj\Debug\netcoreapp2.2\MySpaceBooker.Core.csprojAssemblyReference.cache
